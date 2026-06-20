@@ -2,6 +2,7 @@
 
 ⚛️ Physics PhD Candidate at Michigan State University<br/>
 🛰️ Astroparticle Physics<br/>
+🧊 Working on the IceCube Neutrino Observatory<br/>
 📊 Interested in Machine Learning, Statistics and Physics
 
 # 💻 Tech Stack:
